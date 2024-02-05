@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: dimgray;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.draggable {
+    background-color: whitesmoke;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid black;
+    cursor: move;
+}
